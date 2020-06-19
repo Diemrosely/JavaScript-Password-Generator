@@ -1,5 +1,5 @@
 
-//Defining variables for elements using
+//Defining variables for elements that we are using, button, and text area
 var generatePasswordBtnEl = document.querySelector("#generateBtn");
 var displayPasswordEl = document.querySelector("#password");
 
